@@ -14,12 +14,12 @@ proxies:
   udp: true
   tls: true
   skip-cert-verify: true
-  servername: ''
+  servername: 7dba81fc3a0b.oylfmxz.cn
   network: ws
   ws-opts:
-    path: ''
+    path: /
     headers:
-      Host: ''
+      Host: 7dba81fc3a0b.oylfmxz.cn
 proxy-groups:
 - name: PROXIES
   type: select
